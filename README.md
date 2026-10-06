@@ -6,6 +6,8 @@
 
 ## Mô hình kết nối
 
+![Mô hình kết nối](docs/mo-hinh.png)
+
 ```text
    Điện thoại                 Laptop (app desktop)              Máy server (Mac hoặc PC)
    (trình duyệt)              (app OpenCode)                    (chạy opencode serve)
