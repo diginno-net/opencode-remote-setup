@@ -1,0 +1,8 @@
+.DS_Store
+*.env
+*credentials*
+*token*
+auth.json
+opencode.json
+acl.hujson
+headers.txt
