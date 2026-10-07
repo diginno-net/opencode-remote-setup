@@ -171,3 +171,19 @@ Token API tạo ở Admin Console → Settings → Keys, lưu vào file env `chm
 Làm theo mà vướng, hoặc muốn trao đổi thêm về OpenCode? Tham gia nhóm
 **[OpenCode Việt Nam](https://www.facebook.com/groups/opencode.io.vn)** — cộng đồng người dùng
 OpenCode tiếng Việt, hỏi đáp vận hành, skill và mẹo dùng AI-CLI hằng ngày.
+
+## Hệ thống này do Diginno dựng
+
+Hướng dẫn trên do **[Diginno](https://diginno.net)** viết — công ty chuyên gom các quy trình rời rạc
+trong Excel, Google Sheet, Zalo, KiotViet, NhanhVN, MISA, email, form… thành **một hệ thống quản trị
+tập trung trên LarkSuite/LarkBase**: phân quyền, phê duyệt, automation, đồng bộ dữ liệu và báo cáo.
+
+Muốn có hệ thống vận hành như vậy mà không tự dựng? Diginno có sẵn:
+
+- **Trợ lý CSKH Pancake/Zalo** — toàn bộ chat tự sync về LarkBase, AI ghi nhãn hội thoại và soạn nháp
+  trả lời chờ duyệt (AI không tự gửi), bảng chăm sóc khách hàng theo tuần, gửi tin theo nhóm khách.
+- **Phòng đối soát & báo cáo ảo** — báo cáo đối soát định kỳ tự chạy trên Lark Sheet/Base kèm cảnh báo
+  lệch, chọn theo nguồn dữ liệu: sàn TMĐT · kho & vận chuyển · công nợ & OCR chứng từ · P&L theo kênh.
+- **Dự án theo yêu cầu** — ERP (Odoo, NocoBase), tích hợp API/webhook, AI agent cho quy trình riêng.
+
+Tìm hiểu và liên hệ: **[diginno.net](https://diginno.net)**
