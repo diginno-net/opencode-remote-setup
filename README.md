@@ -1,6 +1,6 @@
-# OpenCode từ xa qua Tailscale — hướng dẫn cho team
+# OpenCode từ xa qua Tailscale — hướng dẫn tự dựng
 
-> Bản sạch, đưa được cho AI-CLI làm theo từ đầu đến cuối.
+> Bản sạch, đưa được cho AI-CLI làm theo từ đầu đến cuối (mỗi repo có sẵn `AGENTS.md` cho AI đọc).
 > Mô hình này đã chạy ổn định 24/7 (Mac + Windows, kiểm chứng 07/10/2026).
 > Mọi giá trị trong tài liệu này là **placeholder** — thay bằng giá trị của chính bạn.
 
@@ -165,3 +165,9 @@ Token API tạo ở Admin Console → Settings → Keys, lưu vào file env `chm
 - Mật khẩu đặt qua biến môi trường `OPENCODE_SERVER_PASSWORD`, sinh ngẫu nhiên từng máy.
 - ACL chỉ mở đúng `IP thiết bị → IP server:443`. Không mở dải cổng, không mở tag rộng.
 - Thu hồi token API Tailscale ở Admin Console → Settings → Keys khi không dùng nữa.
+
+## Cộng đồng
+
+Làm theo mà vướng, hoặc muốn trao đổi thêm về OpenCode? Tham gia nhóm
+**[OpenCode Việt Nam](https://www.facebook.com/groups/opencode.io.vn)** — cộng đồng người dùng
+OpenCode tiếng Việt, hỏi đáp vận hành, skill và mẹo dùng AI-CLI hằng ngày.
